@@ -2,7 +2,10 @@
 
 An AI study assistant that answers students' questions from uploaded course documents. It uses Retrieval-Augmented Generation (RAG) on **AWS Bedrock**, with a LangGraph agent workflow, an MCP server, and a React frontend.
 
-> **Credit:** This project is based on the course repository [toolsknowledge/vpro-agent-platform](https://github.com/toolsknowledge/vpro-agent-platform) from the VPro Skills Agentic AI program. This repo documents my local setup, AWS configuration, and the fixes I applied to get it running end to end.
+> Built as part of the **VPro Skills Agentic AI program**, using the program's
+> base codebase ([toolsknowledge/vpro-agent-platform](https://github.com/toolsknowledge/vpro-agent-platform)).
+> My work covered the AWS Bedrock and IAM configuration, local environment setup,
+> debugging, and documentation described below.
 
 ## Tech stack
 
